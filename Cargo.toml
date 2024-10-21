@@ -1,6 +1,6 @@
 [package]
 name = "arena-core"
-version = "0.1.6"
+version = "0.1.7"
 edition = "2021"
 repository = "https://github.com/arena-rs/arena"
 description = "Framework for holistic economic modelling and simulation of Uniswap v4 strategies, hooks and pools."
