@@ -1,10 +1,10 @@
-use std::collections::HashMap;
+use std::{collections::HashMap, time::Instant};
 
 use alloy::{
     providers::{Provider, ProviderBuilder, WalletProvider},
     signers::local::PrivateKeySigner,
 };
-use std::time::Instant;
+
 use super::*;
 use crate::{
     config::Config,
