@@ -15,7 +15,7 @@ Arena has an [examples](https://github.com/arena-rs/arena/tree/main/examples) fo
 
 ## Overview
 
-Arena introduces a novel approach to LP simulation through a highly-configurable event-driven runtime. Each event consists of integral market information for a strategy, from which the actor can derive insight from.
+Arena introduces a novel approach to LP simulation through a highly-configurable event-driven runtime. Each event consists of integral market information for a strategy, from which the actor can derive insight from .
 
 Arena is an [alloy](https://alloy.rs) native project, utilizing many crate-native features such as the `sol!` procedural macro, and the `Anvil` testnet node implementation.
 
